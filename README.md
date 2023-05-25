@@ -40,7 +40,7 @@ GemtextToHTML.render_to_string(gemtext, components: MyApp.MyComponents)
 # => "<h1 class="text-lg font-bold">Hello, world</h1>" <> ...
 ```
 
-## Compatability
+## Compatibility
 
 Phoenix LiveView 0.18.x or greater is required.
 
